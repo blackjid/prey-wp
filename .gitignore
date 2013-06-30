@@ -1,0 +1,9 @@
+packages
+/PreyCore/obj
+/PreyCore/Bin
+/PreyClient/Bin
+/PreyClient/obj
+/PreyBackgroundAgent/Bin
+/PreyBackgroundAgent/obj
+*.suo
+*.user
